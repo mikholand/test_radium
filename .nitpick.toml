@@ -1,0 +1,5 @@
+[nitpick]
+minimum_version = "0.32.0"
+
+[tool.nitpick]
+style = "nitpick/all.toml"
